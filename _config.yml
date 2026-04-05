@@ -1,0 +1,19 @@
+# Site settings
+
+# Base URL
+baseurl: ""
+
+# Build settings
+include:
+  - _pages
+  - _posts
+
+# Exclude files and directories
+exclude:
+  - README.md
+  - README
+  - docs
+
+# Plugins
+plugins:
+  - jekyll-feed
